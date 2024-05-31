@@ -1,8 +1,9 @@
-# React + Vite
+I developed This React Project with the help of the intensive 'The Ultimate React course' by Jonas on Udemy.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Worldwise is your adventure partner to keep track of places you have been with an interactive friendly map. 😎✈️
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+- Geolocation
+- Map component
+- API integration
+- Reactive programming
